@@ -1,0 +1,11 @@
+Changes
+MANIFEST
+MANIFEST.SKIP
+META.yml
+Makefile.PL
+README
+SIGNATURE
+urifind
+t/01pod.t
+t/02find.t
+t/sciencenews

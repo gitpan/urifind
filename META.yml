@@ -1,0 +1,9 @@
+--- #YAML:1.0
+name: urifind
+version: 1.00
+author: darren chamberlain <darren@cpan.org>
+license: perl
+distribution: script
+requires:
+  URI::Find: 0.13
+generated_by: hand!
